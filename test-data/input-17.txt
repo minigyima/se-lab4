@@ -1,0 +1,5 @@
+# Ha az elsődleges tüzelt utoljára, és mindkét store üres, a SINGLE lövés sikertelen.
+# Az elsődleges store-ban egy torpedó van, a másodlagos store üres.
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
