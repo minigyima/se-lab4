@@ -1,0 +1,5 @@
+# Ha a soron következő store üres, a hajó a másik store-t próbálja (nemüres).
+SUCCESS  # <- GT4500,1,0,2,0
+SUCCESS  # <- TORPEDO,SINGLE
+SUCCESS  # <- TORPEDO,SINGLE
+SUCCESS  # <- TORPEDO,SINGLE

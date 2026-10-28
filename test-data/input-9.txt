@@ -1,0 +1,5 @@
+# ALL módban a hajó mindkét torpedó store kilövését megkísérli.
+# Mindkét store-ban pontosan egy torpedó van, egyik sem jelez hibát, viszont utána kifgogynak.
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

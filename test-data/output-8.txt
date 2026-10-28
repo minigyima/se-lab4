@@ -1,0 +1,4 @@
+# Ha a kilőtt store hibát jelez, a hajó nem próbálja a másikat (másodlagos).
+SUCCESS  # <- GT4500,2,0,1,1
+SUCCESS  # <- TORPEDO,SINGLE
+FAIL  # <- TORPEDO,SINGLE

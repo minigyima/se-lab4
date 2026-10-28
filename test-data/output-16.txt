@@ -1,0 +1,3 @@
+# Az eredmény sikertelen, ha egyetlen torpedó sem lőtt ki sikeresen. ALL módban egyik store-ban sincs torpedó.
+SUCCESS  # <- GT4500,0,0,0,0
+FAIL  # <- TORPEDO,ALL

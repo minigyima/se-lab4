@@ -1,0 +1,5 @@
+# Az eredmény sikertelen, ha egyetlen torpedó sem lőtt ki sikeresen.
+# Mindkét store-ban egy torpedó van, és mindkét store minden kísérletre hibát jelez.
+# A store-ok tehát nem üresek, a kilövés mégis sikertelen.
+GT4500,1,1,1,1
+TORPEDO,ALL

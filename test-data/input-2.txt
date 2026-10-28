@@ -1,0 +1,5 @@
+# Az első SINGLE lövés az elsődleges store-t használja.
+# Az elsődleges store-ban egy torpedó van, és em jelez hibát.
+# A másodlagos store-ban egy torpedó van, és minden kísérletre hibát jelez.
+GT4500,1,0,1,1
+TORPEDO,SINGLE

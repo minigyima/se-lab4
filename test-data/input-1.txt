@@ -1,0 +1,5 @@
+# SINGLE módban csak az egyik torpedó tüzel.
+# Mindkét store-ban pontosan egy torpedó van, és egyik store sem jelez hibát.
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

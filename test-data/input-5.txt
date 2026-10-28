@@ -1,0 +1,4 @@
+# Ha a soron következő store üres, a hajó a másik store-t próbálja (elsődleges).
+# Az elsődleges store üres, a másodlagos store-ban egy torpedó van.
+GT4500,0,0,1,0
+TORPEDO,SINGLE

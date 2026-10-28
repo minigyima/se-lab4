@@ -1,0 +1,6 @@
+# Ha a kilőtt store hibát jelez, a hajó nem próbálja a másikat (másodlagos).
+# Az elsődleges store-ban két torpedó van, tehát az első lövés után is marad benne sikeresen kilőhető torpedó.
+# A másodlagos store-ban egy torpedó van, és minden kísérletre hibát jelez.
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
