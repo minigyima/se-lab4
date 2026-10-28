@@ -1,0 +1,3 @@
+# ALL az elsődleges store-t akkor is megpróbálja, ha a másodlagos üres. A sikeres lövés eredménye siker.
+SUCCESS  # <- GT4500,1,0,0,0
+SUCCESS  # <- TORPEDO,ALL

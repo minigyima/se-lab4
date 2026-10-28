@@ -1,0 +1,4 @@
+# Ha a kilőtt store hibát jelez, a hajó nem próbálja a másikat (elsődleges).
+# Az elsődleges store-ban egy torpedó van, ezért a store nem üres, de minden kilövésre hibát jelez.
+GT4500,1,1,1,0
+TORPEDO,SINGLE

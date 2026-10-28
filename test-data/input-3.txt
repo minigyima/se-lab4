@@ -1,0 +1,7 @@
+# A SINGLE lövések váltakoznak: elsődleges, majd másodlagos, majd újraz elsődleges.
+# Az elsődleges store-ban két torpedó van, és nem jelez hibát.
+# A másodlagos store-ban egy torpedó van, és minden kísérletre hibát jelez.
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

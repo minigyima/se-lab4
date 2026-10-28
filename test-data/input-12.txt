@@ -1,0 +1,4 @@
+# Az eredmény sikeres, ha legalább egy torpedó kilőtt. Itt egyedül a másodlagos lövés sikeres.
+# Mindkét store-ban egy torpedó van. Az elsődleges minden kísérletre hibát jelez, a másodlagos nem jelez hibát.
+GT4500,1,1,1,0
+TORPEDO,ALL

@@ -1,0 +1,4 @@
+# SINGLE módban csak az egyik torpedó tüzel.
+SUCCESS  # <- GT4500,1,0,1,0
+SUCCESS  # <- TORPEDO,SINGLE
+SUCCESS  # <- TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# Az eredmény sikertelen, ha egyetlen torpedó sem lőtt ki sikeresen. ALL módban egyik store-ban sincs torpedó.
+# Mindkét store üres.
+GT4500,0,0,0,0
+TORPEDO,ALL

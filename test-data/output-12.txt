@@ -1,0 +1,3 @@
+# Az eredmény sikeres, ha legalább egy torpedó kilőtt. Itt egyedül a másodlagos lövés sikeres.
+SUCCESS  # <- GT4500,1,1,1,0
+SUCCESS  # <- TORPEDO,ALL

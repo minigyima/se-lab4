@@ -1,0 +1,5 @@
+# A SINGLE lövések váltakoznak: elsődleges, majd másodlagos, majd újraz elsődleges.
+SUCCESS  # <- GT4500,2,0,1,1
+SUCCESS  # <- TORPEDO,SINGLE
+FAIL  # <- TORPEDO,SINGLE
+SUCCESS  # <- TORPEDO,SINGLE

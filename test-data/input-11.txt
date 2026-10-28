@@ -1,0 +1,4 @@
+# ALL a másodlagos store-t akkor is megpróbálja, ha az elsődleges üres. A sikeres másodlagos lövés eredménye siker.
+# Az elsődleges store üres. A másodlagos store-ban egy torpedó van.
+GT4500,0,0,1,0
+TORPEDO,ALL
