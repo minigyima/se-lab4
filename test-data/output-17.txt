@@ -1,0 +1,4 @@
+# Ha az elsődleges tüzelt utoljára, és mindkét store üres, a SINGLE lövés sikertelen.
+SUCCESS  # <- GT4500,1,0,0,0
+SUCCESS  # <- TORPEDO,SINGLE
+FAIL  # <- TORPEDO,SINGLE
